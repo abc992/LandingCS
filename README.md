@@ -42,12 +42,12 @@ Our company is one of the largest online loan marketplace, facilitating all purp
 
 ## Conclusions
 - Do not invest in loans with interest rate 25% and more it has high default ratio.
--Do not invest in short term loans (36 months) if the client annual income is less than 25K. 
--Try to avoid investing in loans issued  to employees with 10 or more years as they represent a risk of ending as a default and it's recommended to approve only small amounts.
+- Do not invest in short term loans (36 months) if the client annual income is less than 25K. 
+- Try to avoid investing in loans issued  to employees with 10 or more years as they represent a risk of ending as a default and it's recommended to approve only small amounts.
 - Do not invest loans with interest rate of 12.5% or higher to clients with annual income less than 50k. 
--Groups A and B are the safest to invest.
--Invest in loans were people own their house.
--Do not invest in loans of purpose of small business as it a high risk.
+- Groups A and B are the safest to invest.
+- Invest in loans were people own their house.
+- Do not invest in loans of purpose of small business as it a high risk.
 
 
 <!-- You don't have to answer all the questions - just the ones relevant to your project. -->
